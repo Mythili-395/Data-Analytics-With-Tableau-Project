@@ -1,4 +1,4 @@
-# Data-Analytics-With-Tableau-Project
+
 # 🌾 India's Agricultural Crop Production Analysis
 
 A Tableau-based data visualization project that analyzes agricultural crop production in India using historical crop production data (1997–2021). The project provides interactive dashboards to explore crop production trends across different states, years, seasons, and crop types.
