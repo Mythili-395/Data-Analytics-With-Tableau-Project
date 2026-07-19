@@ -22,9 +22,7 @@ The dashboard helps users understand:
 ## 📂 Repository Structure
 
 ```
-Data-Analytics-With-Tableau-Project
-|
-India's-Agricultural-Crop-Production-Analysis/
+Indian-Agricultural-Crop-Production-Analysis/
 │
 ├── project/
 │   ├── Dashboard/
